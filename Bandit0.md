@@ -22,3 +22,4 @@ bash: cat readme
 
 **What I learned:**
 The cat (concatenate) command is used for reading and displaying the content of files, or even combining multiple files into a single one.
+
