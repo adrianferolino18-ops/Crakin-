@@ -66,3 +66,47 @@ Focus on: **SQL Injection, XSS, Authentication flaws, and IDOR.**
 
 ## ✅ Success After 1 Month
 You should be able to read raw HTTP requests, use Burp confidently, and understand why SQLi/XSS happen.
+
+# 📚 WHERE TO STUDY (Exact Sources)
+### 🐧 DAY 1–2: Linux Basics
+* **BEST PRIMARY SOURCE:** [OverTheWire – Bandit](https://overthewire.org/wargames/bandit/)
+    * *Goal:* Complete up to **Level 10**.
+    * *Why:* You learn by doing. No fluff, just terminal practice.
+* **SECONDARY (If confused):** [Linux Journey](https://linuxjourney.com/)
+    * *Focus on:* Command Line, Filesystem, and Permissions.
+
+### 🌐 DAY 3–4: Networking Basics
+* **PRIMARY:** [TryHackMe – Network Fundamentals](https://tryhackme.com/path/outline/presecurity)
+    * *Rooms:* Intro to Networking, What is Networking?, and HTTP in Detail.
+* **ALTERNATIVE (Text-based):** [Mozilla HTTP Guide](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+    * *Focus on:* Requests, Responses, Methods, and Status codes.
+
+### 🔍 DAY 5–7: HTTP & Web Basics
+* **PRIMARY:** [PortSwigger Web Security Academy](https://portswigger.net/web-security)
+    * *Start with:* HTTP basics, Requests & Responses, and Authentication.
+    * 🔥 **Note:** This site is the gold standard for web hacking.
+
+---
+
+### 💻 WEEK 2: Web Technologies (Attacker POV)
+* **HTML & JavaScript:** [MDN Web Docs](https://developer.mozilla.org/en-US/)
+    * *Focus on:* HTML forms, Input fields, and JS form validation.
+* **Backend Basics (PHP):** [W3Schools PHP Guide](https://www.w3schools.com/php/)
+    * *Focus on:* `$_GET`, `$_POST`, and basic SQL queries. 
+    * ⚠️ *Just understand the flow—don't try to become a dev yet.*
+
+---
+
+### 🛠️ WEEK 3: Kali Linux & Tools
+* **KALI USAGE:** [Kali Linux Documentation](https://www.kali.org/docs/)
+    * Use this for tool explanations and environment setup.
+* **BURP SUITE:** [Burp Suite Academy](https://portswigger.net/burp/documentation/desktop/getting-started)
+    * *Learn:* Intercepting requests, Repeater, and Intruder.
+
+---
+
+### 🎯 WEEK 4: Real Web Exploitation Practice
+* **HANDS-ON LABS:** [PortSwigger Academy](https://portswigger.net/web-security)
+    * *Focus Labs:* SQL Injection, XSS, Authentication, and IDOR.
+* **STRUCTURED PATH:** [TryHackMe Beginner Web Path](https://tryhackme.com/path/outline/web)
+    * *Rooms:* Web Fundamentals & OWASP Top 10.
