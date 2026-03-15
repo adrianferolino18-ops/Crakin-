@@ -14,3 +14,4 @@
 * [Bandit Level 8](Bandit8.md)
 * [Bandit Level 9](Bandit9.md)
 * [Bandit Level 10](Bandit10.md)
+* [Bandit Level 11](Bandit11.md)
