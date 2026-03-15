@@ -3,7 +3,7 @@
 
 # WEEK 1
 ### Day 1-2
-* [Bandit Level 0](Bandit0.md)
+* [Bandit Level 0](Bandit0.md) (./bandits/bandit0.png)
 * [Bandit Level 1](Bandit1.md)
 * [Bandit Level 2](Bandit2.md)
 * [Bandit Level 3](Bandit3.md)
