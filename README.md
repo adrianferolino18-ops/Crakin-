@@ -22,5 +22,5 @@
 
 # PicoCTF challenge Practices
 
-*[Cookie Monster](./CTF_prac/Cookie_Monster.md)
-*[Local Authority](./CTF_prac/Local_authority.md)
+* [Cookie Monster](./CTF_prac/Cookie_Monster.md)
+* [Local Authority](./CTF_prac/Local_authority.md)
