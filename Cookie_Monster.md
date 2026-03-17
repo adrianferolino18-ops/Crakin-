@@ -11,9 +11,10 @@ This was an easy challenge from picoCTF. Because of the title "Cookie Monster" a
 **Result:**
 After decoding the cookie, the flag was hidden right inside.
 
-[Check out the login attempt here](./cookie_login.png)
-[View the cookie inspection here](./cookie_inspect.png)
-[See the decoded flag here](./cookie_flag.png)
+[Check out the login attempt here](./ctf.cm.1.png)
+[Check out the login attempt result here](./ctf.cm.2.png)
+[View the cookie inspection here](./ctf.cm.3.png)
+[See the decoded flag here](./ctf.cm.4.png)
 
 ---
 
