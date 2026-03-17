@@ -4,17 +4,17 @@
 # WEEK 1
 ### Day 1-2
 * [Bandit Level 0](./Bandit_challenges/Bandit0.md) [picture](./bandits/bandit0.png)
-* [Bandit Level 1](Bandit1.md) [picture](./bandits/bandit1.png)
-* [Bandit Level 2](Bandit2.md) [picture](./bandits/bandit2.png)
-* [Bandit Level 3](Bandit3.md) [picture](./bandits/bandit3.1.png) [picture2](./bandits/bandit3.2.png)
-* [Bandit Level 4](Bandit4.md) [picture](./bandits/bandit4.1.png) [picture2](./bandits/bandit4.2.png)
-* [Bandit Level 5](Bandit5.md) [picture](./bandits/bandit5.1.png) [picture2](./bandits/bandit5.2.png) [picture3](./bandits/bandit5.3.png) [picture4](./bandits/bandit5.4.png)
-* [Bandit Level 6](Bandit6.md) [picture](./bandits/bandit6.1.png) [picture2](./bandits/bandit6.2.png) [picture3](./bandits/bandit6.3.png)
-* [Bandit Level 7](Bandit7.md) [picture](./bandits/bandit7.png)
-* [Bandit Level 8](Bandit8.md) [picture](./bandits/bandit8.png)
-* [Bandit Level 9](Bandit9.md) [picture](./bandits/bandit9.1.png) [picture2](./bandits/bandit9.2.png)
-* [Bandit Level 10](Bandit10.md) [picture](./bandits/bandit10.1.png) [picture2](./bandits/bandit10.2.png) [picture3](./bandits/bandit10.3.png)
-* [Bandit Level 11](Bandit11.md) [picture](./bandits/bandit11.png)
+* [Bandit Level 1](./Bandit_challenges/Bandit1.md) [picture](./bandits/bandit1.png)
+* [Bandit Level 2](./Bandit_challenges/Bandit2.md) [picture](./bandits/bandit2.png)
+* [Bandit Level 3](./Bandit_challenges/Bandit3.md) [picture](./bandits/bandit3.1.png) [picture2](./bandits/bandit3.2.png)
+* [Bandit Level 4](./Bandit_challenges/Bandit4.md) [picture](./bandits/bandit4.1.png) [picture2](./bandits/bandit4.2.png)
+* [Bandit Level 5](./Bandit_challenges/Bandit5.md) [picture](./bandits/bandit5.1.png) [picture2](./bandits/bandit5.2.png) [picture3](./bandits/bandit5.3.png) [picture4](./bandits/bandit5.4.png)
+* [Bandit Level 6](./Bandit_challenges/Bandit6.md) [picture](./bandits/bandit6.1.png) [picture2](./bandits/bandit6.2.png) [picture3](./bandits/bandit6.3.png)
+* [Bandit Level 7](./Bandit_challenges/Bandit7.md) [picture](./bandits/bandit7.png)
+* [Bandit Level 8](./Bandit_challenges/Bandit8.md) [picture](./bandits/bandit8.png)
+* [Bandit Level 9](./Bandit_challenges/Bandit9.md) [picture](./bandits/bandit9.1.png) [picture2](./bandits/bandit9.2.png)
+* [Bandit Level 10](./Bandit_challenges/Bandit10.md) [picture](./bandits/bandit10.1.png) [picture2](./bandits/bandit10.2.png) [picture3](./bandits/bandit10.3.png)
+* [Bandit Level 11](./Bandit_challenges/Bandit11.md) [picture](./bandits/bandit11.png)
 
 # CTF Challenges
 
