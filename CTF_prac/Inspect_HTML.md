@@ -6,9 +6,7 @@ This challenge was easy because the title was "Inspect HTML" and the clue asked,
 
 1. **Opening the Inspector**: I launched the website and right-clicked to "Inspect" the page (or used Ctrl+Shift+I).
 2. **Finding the Password**: I looked through the HTML Elements and found the flag hidden inside the code.
-
-### Results:
-[Check out the HTML inspector here](./ctf/ih.png)
+[Check out the HTML inspector here](../ctf/ih.png)
 
 ---
 
