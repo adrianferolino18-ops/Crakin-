@@ -28,3 +28,4 @@
 * [Local Authority](./CTF_prac/Local_authority.md)
 * [Bookmarklet](./CTF_prac/Bookmarklet.md)
 * [Inspect_HTML](./CTF_prac/Inspect_HTML.md)
+* [WebDecode](./CTF_prac/WebDecode.md)
