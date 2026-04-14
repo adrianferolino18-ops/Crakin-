@@ -29,3 +29,4 @@
 * [Bookmarklet](./CTF_prac/Bookmarklet.md)
 * [Inspect_HTML](./CTF_prac/Inspect_HTML.md)
 * [WebDecode](./CTF_prac/WebDecode.md)
+* [Unminify](./CTF_prac/Unminify.md)
