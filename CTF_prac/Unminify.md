@@ -7,8 +7,9 @@ This challenge demonstrates **Minification**—the process where developers remo
 1. **Initial Site Check**: I visited the website to see if there were any obvious clues or interactive elements, but the page appeared completely normal with no special features.
 [Check out the minified HTML code here](../ctf/u1.png)
 3. **Inspecting the Source**: Since I couldn't see anything on the surface, I opened the **Web Inspector** (F12) to look at the underlying HTML.
-4. **Finding the Flag**: Even though the HTML was minified (all bunched together in long lines), I was able to look through the tags and found the flag hidden directly in the source code.
-[Check out the flag I found in the inspector here](../ctf/u2.png)
+[The website](../ctf/u2.png)
+5. **Finding the Flag**: Even though the HTML was minified (all bunched together in long lines), I was able to look through the tags and found the flag hidden directly in the source code.
+[Check out the flag I found in the inspector here](../ctf/u3.png)
 
 
 ---
