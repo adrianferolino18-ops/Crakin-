@@ -26,3 +26,5 @@
 
 * [Cookie Monster](./CTF_prac/Cookie_Monster.md)
 * [Local Authority](./CTF_prac/Local_authority.md)
+* [Bookmarklet](./CTF_prac/Bookmarklet.md)
+* [Inspect_HTML](./CTF_prac/Inspect_HTML.md)
