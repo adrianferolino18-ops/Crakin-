@@ -35,3 +35,4 @@
 * [Insp3ctor](./CTF_prac/Insp3ctor.md)
 * [logon](./CTF_prac/logon.md)
 * [Where are the robots](./CTF_prac/Where_are_the_robots.md)
+* [Scavanger Hunt](./CTF_prac/Scavanger_Hunt.md)
