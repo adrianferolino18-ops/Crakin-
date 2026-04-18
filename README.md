@@ -37,3 +37,4 @@
 * [Where are the robots](./CTF_prac/Where_are_the_robots.md)
 * [Scavanger Hunt](./CTF_prac/Scavanger_Hunt.md)
 * [Cookies](./CTF_prac/Cookies.md)
+* [Includes](./CTF_prac/Includes.md)
