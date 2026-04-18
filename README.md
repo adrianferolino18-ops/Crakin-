@@ -30,3 +30,7 @@
 * [Inspect_HTML](./CTF_prac/Inspect_HTML.md)
 * [WebDecode](./CTF_prac/WebDecode.md)
 * [Unminify](./CTF_prac/Unminify.md)
+* [Dont-use-the-client-side](./CTF_prac/Dont-use-the-client-side.md)
+* [Insp3ctor](./CTF_prac/Insp3ctor.md)
+* [logon](./CTF_prac/logon.md)
+* [Where are the robots](./CTF_prac/Where_are_the_robots.md)
