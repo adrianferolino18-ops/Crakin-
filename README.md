@@ -38,4 +38,4 @@
 * [Scavanger Hunt](./CTF_prac/Scavanger_Hunt.md)
 * [Cookies](./CTF_prac/Cookies.md)
 * [Includes](./CTF_prac/Includes.md)
-* [GET aHEAD)(./CTF_prac/GET_aHEAD.md)
+* [GET aHEAD](./CTF_prac/GET_aHEAD.md)
