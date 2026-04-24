@@ -43,3 +43,4 @@
 * [IntroToBurp](./CTF_prac/IntroToBurp.md)
 * [head-dump](./CTF_prac/head-dump.md)
 * [SSTI1](./CTF_prac/SSTI1.md)
+* [Old sessions](./CTF_prac/Old_sessions.md)
