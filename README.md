@@ -42,4 +42,4 @@
 * [Cookie_monster_secret_recipe](./CTF_prac/Cookie_monster_secret_recipe.md)
 * [IntroToBurp](./CTF_prac/IntroToBurp.md)
 * [head-dump](./CTF_prac/head-dump.md)
-* [SSTI1](./CTF_prac/SSTI1.png)
+* [SSTI1](./CTF_prac/SSTI1.md)
