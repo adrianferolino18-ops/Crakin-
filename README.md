@@ -44,3 +44,6 @@
 * [head-dump](./CTF_prac/head-dump.md)
 * [SSTI1](./CTF_prac/SSTI1.md)
 * [Old sessions](./CTF_prac/Old_sessions.md)
+
+## Difficulty: Medium
+* [Forbidden paths](./CTF_prac/Forbidden_paths.md)
