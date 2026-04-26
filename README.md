@@ -47,3 +47,4 @@
 
 ## Difficulty: Medium
 * [Forbidden paths](./CTF_prac/Forbidden_paths.md)
+* [Power Cookie](./CTF_prac/Power_cookie.md)
